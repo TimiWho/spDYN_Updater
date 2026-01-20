@@ -5,7 +5,7 @@
 # BESCHREIBUNG:   Dynamisches DNS Update für spDYN (Securepoint) mit IPv4/IPv6.
 #                 Vergleicht lokale IP mit aktueller IP vor dem Update (Anti-Flood).
 # AUTOR:          timiwho
-# GITHUB:         https://github.com/dein-benutzername/projektname
+# GITHUB:         https://github.com/TimiWho/spDYN_Updater
 #
 # SETUP:          1. Erstelle eine Datei 'spdns.conf' im selben Verzeichnis.
 #                 2. Trage dort HOSTNAME, USER und PASS ein (siehe README).
