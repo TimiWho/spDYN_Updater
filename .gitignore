@@ -1,0 +1,6 @@
+# Geheimnisse ignorieren
+spdns.conf
+# Lokale Daten ignorieren
+IP4.txt
+IP6.txt
+*.log*
