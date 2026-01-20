@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%2F%20Raspberry%20Pi-BC1141?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
-Ein professionelles Bash-Script zur automatischen Aktualisierung von IPv4- und IPv6-Adressen für den Dienst **spDYN (Securepoint)**. Entwickelt für maximale Zuverlässigkeit bei minimaler Systemlast auf dem Raspberry Pi.
+Ein Bash-Script zur automatischen Aktualisierung von IPv4- und IPv6-Adressen für den Dienst **spDYN (Securepoint)**. Entwickelt für maximale Zuverlässigkeit bei minimaler Systemlast auf dem Raspberry Pi.
 
 ---
 
